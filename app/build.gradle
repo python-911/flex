@@ -1,14 +1,6 @@
 apply plugin: 'com.android.application'
 
 android {
-    signingConfigs {
-        release {
-            storeFile file('C:\\android\\pro\\ami.jks')
-            storePassword 'hack1901'
-            keyAlias 'ami'
-            keyPassword 'hack1901'
-        }
-    }
     android.defaultConfig.vectorDrawables.setUseSupportLibrary(true)
     dexOptions {
         javaMaxHeapSize "4g"
