@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-ads-base:19.4.0@aar">
+    <CLASSES>
+      <root url="file://$APPLICATION_HOME_DIR$/gr/caches/transforms-2/files-2.1/3e520c8d302da566e1cce0a081146d3a/jetified-play-services-ads-base-19.4.0/AndroidManifest.xml" />
+      <root url="jar://$APPLICATION_HOME_DIR$/gr/caches/transforms-2/files-2.1/3e520c8d302da566e1cce0a081146d3a/jetified-play-services-ads-base-19.4.0/jars/classes.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/gr/caches/transforms-2/files-2.1/3e520c8d302da566e1cce0a081146d3a/jetified-play-services-ads-base-19.4.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$APPLICATION_HOME_DIR$/gr/caches/modules-2/files-2.1/com.google.android.gms/play-services-ads-base/19.4.0/3595118ed0ead1cee5178fbd6258f9199eb969a5/play-services-ads-base-19.4.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

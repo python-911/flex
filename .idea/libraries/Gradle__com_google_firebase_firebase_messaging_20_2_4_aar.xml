@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-messaging:20.2.4@aar">
+    <CLASSES>
+      <root url="file://$APPLICATION_HOME_DIR$/gr/caches/transforms-2/files-2.1/61ea8fbd06bf247f6f120bcd240fd3c2/jetified-firebase-messaging-20.2.4/AndroidManifest.xml" />
+      <root url="jar://$APPLICATION_HOME_DIR$/gr/caches/transforms-2/files-2.1/61ea8fbd06bf247f6f120bcd240fd3c2/jetified-firebase-messaging-20.2.4/jars/classes.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/gr/caches/transforms-2/files-2.1/61ea8fbd06bf247f6f120bcd240fd3c2/jetified-firebase-messaging-20.2.4/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$APPLICATION_HOME_DIR$/gr/caches/modules-2/files-2.1/com.google.firebase/firebase-messaging/20.2.4/794c2144941293a535b2d38d12dee5b6902a7f2a/firebase-messaging-20.2.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
